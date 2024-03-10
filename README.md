@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently studying at UM Digos College<br>You can email me at fernyfern2108@gmail.com
+💻 I'm currently studying at <b>UM Digos College<br>
+<br>
+📧 You can email me here: fernyfern2108@gmail.com
 
 
 ## 🌐 Socials:
