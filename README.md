@@ -1,8 +1,8 @@
 ### Hi there! I am Fernyl Jean 👋
 
 
- 🌱 I’m currently learning in University of Mindanao Digos College
- 📫 You can dm me at fernyfern2108@gmail.com
+ -🌱 I’m currently learning in University of Mindanao Digos College
+ -📫 You can dm me at fernyfern2108@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
