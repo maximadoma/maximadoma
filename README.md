@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 I'm currently studying at <b>UM Digos College<br>
-<br>
+🧑🏻‍💻 BSIT 2nd-Year student @ <b>UM Digos College<b><br>
+💻 I'm currently learning <b>Android Dev & Web Dev<br>
 📧 You can email me here: fernyfern2108@gmail.com
 
 
