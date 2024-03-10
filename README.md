@@ -1,10 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fernyl Jean</h1>
-<h3 align="center">An aspiring web developer/designer and programmer</h3>
-
-- 🌱 I’m currently studying at **UM Digos College**
-
-- 📫 You can dm me at: **fernyfern2108@gmail.com**
-
 # 💫 About Me:
 I'm currently studying at UM Digos College<br>You can email me at fernyfern2108@gmail.com
 
