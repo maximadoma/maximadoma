@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 BSIT #rd-Year student @ <b>UM Digos College</b><br>
+🧑🏻‍💻 BSIT 3rd-Year student @ <b>UM Digos College</b><br>
 💻 I'm currently learning <b>Android Dev & Web Dev</b><br>
 📧 You can email me here: fernyfern2108@gmail.com
 
